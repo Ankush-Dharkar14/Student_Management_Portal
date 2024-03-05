@@ -1,0 +1,18 @@
+.header{
+  margin: 0;
+  padding: 0;
+    /* background-image: url('../../assets/images/mainImage.png');  */
+    background-color:#2f2f2f;
+    color:#fff;
+    text-align:center;
+    height:120px;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+
+  }
+
+  .header .search-input {
+    width: auto; /* Set the desired width */
+    float: right;
+}

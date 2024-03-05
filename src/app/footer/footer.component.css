@@ -1,0 +1,18 @@
+.footer{
+    background-image: url('../../assets/images/foot1.png'); 
+    background-color:rgb(229, 233, 247);
+    text-align:center;
+    height: 300px;
+    /* display:flex;
+    align-items:center;
+    justify-content:space-around; */
+    background-size: cover;
+}
+
+.footer .bottom{
+  text-align: left;
+}
+
+.top span{
+  font-weight:bold;
+}
