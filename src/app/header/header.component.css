@@ -13,6 +13,6 @@
   }
 
   .header .search-input {
-    width: auto; /* Set the desired width */
+    width: 600px; /* Set the desired width */
     float: right;
 }
